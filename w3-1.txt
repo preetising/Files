@@ -1,0 +1,3 @@
+ '''Write a Python program to read an entire text file. Go to the editor'''
+ this questionis from w3resource.
+ 
